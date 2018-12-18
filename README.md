@@ -1,6 +1,8 @@
 
 # Stygian Core Controls
 
+![StygianCore Controls](https://stygianthebest.github.io/assets/img/projects/stygiancore_controls/480-stygiancorecontrols.jpg)
+
 This is a server launcher and process monitor tool built for the StygianCore repack powered by AzerothCore and assists with running the processes and admin tools in the repack. This application is compatible with any emulator including AzerothCore, TrinityCore, and MaNGOS. I've included the underlying batch files for starting and managing processes and tools for the StygianCore repack which can be edited to suit your needs.
 
 ## Features
